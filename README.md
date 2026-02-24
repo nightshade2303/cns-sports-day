@@ -7,7 +7,7 @@ A beautiful, responsive webpage for displaying live sports scores, hosted on you
 - 📱 Responsive design that works on desktop and mobile
 - 🎨 Modern UI with gradient background and smooth animations
 - ⚡ Real-time score updates
-- 🌐 Hosted on local IP: 10.36.17.235:3000
+- 🌐 Hosted on local IP: add your own
 - 🏅 Support for multiple sports (Football, Basketball, Tennis, Cricket, Baseball)
 
 ## Installation
@@ -24,7 +24,7 @@ A beautiful, responsive webpage for displaying live sports scores, hosted on you
 
 3. Open your browser and navigate to:
    ```
-   http://10.36.17.235:3000
+   http://your_ip_address:3000
    ```
 
 ## Project Structure
@@ -60,3 +60,4 @@ To add or modify scores, edit the scores array in `src/server.js` under the `/ap
 ## License
 
 MIT
+
