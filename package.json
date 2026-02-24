@@ -1,0 +1,19 @@
+{
+  "name": "sports-scores",
+  "version": "1.0.0",
+  "description": "A nice webpage for displaying sports scores",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["sports", "scores", "webpage"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
