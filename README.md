@@ -10,8 +10,9 @@ A beautiful, responsive webpage for displaying live sports scores, hosted on you
 - 🌐 Hosted on local IP: add your own
 - 🏅 Support for multiple sports (Football, Basketball, Tennis, Cricket, Baseball)
 
-## Installation
 
+## Installation
+Download and install Node.js for your specific OS from [nodejs.org](nodejs.org). Then,
 1. Install dependencies:
    ```bash
    npm install
@@ -60,4 +61,5 @@ To add or modify scores, edit the scores array in `src/server.js` under the `/ap
 ## License
 
 MIT
+
 
